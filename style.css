@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+    font-family: 'Lato';
+    width: 1815px;
+    height: 850px;
+}
+
+/* shortcut */
+.font16 { font-size: 16px;}
+.font18 { font-size: 18px;}
+.font20 { font-size: 20px;}
+.font24 { font-size: 24px;}
+.font40 { font-size: 40px;}
+.font48 { font-size: 48px;}
+.font75 { font-size: 75px;}
+.font80 { font-size: 80px;}
+
+.s-color  { color: #fff}
+.p-color  { color: #27272799;}
+.h-color  { background-color: #E554731A;}
+.s1-color { background-color: #A7216226;}
+.s1-color { background-color: #0597A026;}
+.s1-color { background-color: #477D1126; border-radius: 300px 300px 0px 0px; }
+.s2-color { background-color: #2727270D; border-radius: 8px;}
+.s3-color { background-color: #E554730D; border-radius: 8px;}
+.f-color  { background-color: #111010;}
+.fh-color { color: #E55473}
+.cr-color { color: #FFFFFF66}
+
+
+.m0 {margin: 0px;}
+.m20 { margin: 20px;} .m-t20 { margin-top: 20px;}
+.m25 { margin: 25px;}
+.m30 { margin: 30px;}
+.m40 { margin: 40px;} .m-t40 { margin-top: 40px;}
+.m50 { margin: 50px;}
+.m60 { margin: 60px;}
+.m70 { margin: 70px;}
+.m80 { margin: 80px;}
+.m100 { margin: 100px;}
+.m150 { margin: 150px;} .m-t150 { margin-top: 150px;}
+
+.button   { 
+    background-color: #E55473;
+    color: #fff; 
+    border: none;
+    border-radius: 8px;
+    padding: 20px 43px 20px 43px;
+}
+
+
+.header-container {
+    display: flex;
+    gap: 80px;
+    padding: 50px 220px 0px 220px;
+}
+
+.header-left-content h1 {
+    font-weight: 800;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.get-coupon-container {
+    background-image: url(./PNG\ File/get-cupon-bg.png);
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 449px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width: 700px;
+    height: 64px;
+    background-color: #fff;
+    border: none;
+}
+
+.subscribe {
+    display: flex;
+    gap: 20px;
+}
+
+
+.footer-container {
+    text-align: center;
+    padding: 120px 0px 120px 0px;
+}
