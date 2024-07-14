@@ -25,7 +25,7 @@ body {
 .feature-img-content {
     margin-top: 70px;
     display: flex;
-    gap: 25px;
+    gap: 80px;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -113,21 +113,7 @@ input {
     padding: 120px 0px 120px 0px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* My Shortcut CSS */
 
 p { font-size: 18px; color: #27272799;}
 h1 { font-size: 48px; font-weight: 800; margin: 0;}
@@ -141,13 +127,11 @@ button   {
     font-size: 18px;
     font-weight: 700;
 }
-.f1-color { background-color: #A7216226; border-radius: 300px 300px 0px 0px; padding: 110px 77px 0px 77px;}
-.f2-color { background-color: #0597A026; border-radius: 300px 300px 0px 0px; padding: 117px 47px 51px 47px;}
-.f3-color { background-color: #477D1126; border-radius: 300px 300px 0px 0px; padding: 67px 75px 0px 75px;}
 
+.f1-color { background-color: #A7216226; border-radius: 300px 300px 0px 0px; padding: 110px 57px 0px 57px;}
+.f2-color { background-color: #0597A026; border-radius: 300px 300px 0px 0px; padding: 117px 27px 67px 27px;}
+.f3-color { background-color: #477D1126; border-radius: 300px 300px 0px 0px; padding: 67px 55px 0px 55px;}
 
-
-/* shortcut */
 .font16 { font-size: 16px;}
 .font18 { font-size: 18px;}
 .font20 { font-size: 20px;}
