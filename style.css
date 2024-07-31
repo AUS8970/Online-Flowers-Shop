@@ -14,6 +14,7 @@ body {
 .header-container {
     margin: 0 auto;
     display: flex;
+    gap: 100px;
     align-items: center;
     justify-content: center;
     background-color: #E554731A;
@@ -28,7 +29,7 @@ body {
 }
 
 .header-left-content h1 {
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: 900;
     color: #272727;
 }
@@ -39,8 +40,8 @@ body {
 }
 
 .header-img > img{
-    width: 635px;
-    height: 700px;
+    width: 500px;
+    height: 620px;
 }
 
 
